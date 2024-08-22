@@ -1,6 +1,6 @@
 # Computational-Genomics
 
-This repository is to keep track of the various assignments from CS690 (Computational Genomics) as well as miscellaneous projects I have completed while learning Computational Genomics or other fields of Computational Biology myself. 
+This repository is to keep track of the various assignments from CS690 (Computational Genomics) as well as miscellaneous projects I have completed while learning Computational Biology myself. 
 
 ## Contents of this Repository
 ### From the Course CS690A: Computational Genomics
